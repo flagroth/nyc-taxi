@@ -2,4 +2,4 @@
 NYC Taxi analysis and tip prediction
 
 # Data downloading
-To download the data of the analysis run src/bash/data_downloader.sh
+To download the data of the analysis run src/bash/data_downloader.sh from the project's home
